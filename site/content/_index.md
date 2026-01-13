@@ -2,7 +2,7 @@
 title: "CRPro"
 subtitle: "EPC Recruitment & Consulting"
 description: "CRPro provides specialist EPC recruitment and consulting services for data centre, mission-critical, and complex construction projects across the UK, Europe, and North America."
-image: /img/home-jumbotron.jpg
+image:
 
 blurb:
   heading: "What We Do"
