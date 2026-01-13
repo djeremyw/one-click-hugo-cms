@@ -1,6 +1,6 @@
 ---
 title: "CRPro"
-subtitle: EPC recruitment and consulting
+subtitle: EPC Recruitment & Consulting
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
