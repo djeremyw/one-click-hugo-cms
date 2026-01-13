@@ -1,38 +1,34 @@
 ---
-title: "Values"
+title: "About"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "What we do"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      CRPro provides recruitment and consulting services across EPC
+      environments, supporting clients with structured hiring
+      processes, realistic candidate representation, and delivery-focused
+      outcomes.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Technical understanding"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+       Our work is informed by hands-on exposure to engineering,
+      procurement, and construction project environments. This allows us
+      to assess role requirements realistically, understand technical
+      constraints, and communicate effectively with both clients and
+      candidates.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "How we work"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+       We prioritise clarity, responsiveness, and accuracy. Our approach
+      focuses on understanding requirements upfront, maintaining clear
+      communication throughout the process, and managing expectations
+      on all sides.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Professional standards"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+     We aim to represent roles and candidates accurately, operate with
+      discretion, and support long-term relationships rather than
+      transactional placements.
     imageUrl: "/img/about-direct-sourcing.jpg"
   - heading: "Reinvest profits"
     text: >
