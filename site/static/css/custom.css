@@ -14,10 +14,14 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   letter-spacing: -0.01em;
 }
+
 /* Header / nav */
 .crpro-nav {
-  border-bottom: 1px solid #e6e6e6;
+  position: sticky;
+  top: 0;
+  z-index: 50;
   background: #ffffff;
+  border-bottom: 1px solid #e6e6e6;
 }
 
 .crpro-nav-inner {
@@ -35,14 +39,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .crpro-logo {
-  height: 44px;
+  height: 52px;
   width: auto;
   display: block;
 }
 
+/* Navigation links */
 .crpro-links a {
   margin-left: 18px;
   font-weight: 500;
+  color: #111;
+  text-decoration: none;
 }
 
 .crpro-links a:hover {
