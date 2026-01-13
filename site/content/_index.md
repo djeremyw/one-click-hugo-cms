@@ -1,20 +1,24 @@
 ---
 title: "CRPro"
-subtitle: EPC Recruitment & Consulting
+subtitle: "EPC Recruitment & Consulting"
+description: "CRPro provides specialist EPC recruitment and consulting services for data centre, mission-critical, and complex construction projects across the UK, Europe, and North America."
 image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
 
+blurb:
+  heading: "What We Do"
+  text: "CRPro works with contractors, developers, and engineering firms delivering complex EPC and mission-critical projects. We support clients with targeted recruitment, market intelligence, and practical hiring advice across technically demanding and regulated environments."
+
+intro:
+  heading: "Services"
+  text: "We provide focused recruitment and advisory support for organisations delivering complex engineering and construction projects."
+
+products:
+  - image: /img/illustrations-coffee.svg
+    text: "Targeted recruitment for EPC, data centre, and mission-critical construction roles, including project management, engineering, commercial, and senior leadership positions."
+  - image: /img/illustrations-coffee-gear.svg
+    text: "Market and hiring advisory services, including talent availability insight, compensation benchmarking, and hiring strategy for new and expanding projects."
+
+values:
+  heading: "Our Approach"
+  text: "CRPro was established to support organisations where hiring decisions carry real delivery and commercial risk. We prioritise clarity, due diligence, and long-term outcomes over volume-driven recruitment."
+---
