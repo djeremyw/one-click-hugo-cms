@@ -13,12 +13,13 @@ intro:
   text: "We provide focused recruitment and advisory support for organisations delivering complex engineering and construction projects."
 
 products:
-  - image: /img/illustrations-coffee.svg
+  - image:
     text: "Targeted recruitment for EPC, data centre, and mission-critical construction roles, including project management, engineering, commercial, and senior leadership positions."
-  - image: /img/illustrations-coffee-gear.svg
+  - image:
     text: "Market and hiring advisory services, including talent availability insight, compensation benchmarking, and hiring strategy for new and expanding projects."
 
 values:
   heading: "Our Approach"
   text: "CRPro was established to support organisations where hiring decisions carry real delivery and commercial risk. We prioritise clarity, due diligence, and long-term outcomes over volume-driven recruitment."
+  image:
 ---
