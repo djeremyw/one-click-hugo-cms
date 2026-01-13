@@ -1,6 +1,6 @@
 ---
 title: Services
-type: products
+type: Services
 image: /img/products-jumbotron.jpg
 intro:
   heading: Services
